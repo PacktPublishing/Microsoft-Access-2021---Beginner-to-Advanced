@@ -1,0 +1,22 @@
+TicketNumber	Title	Customer	Location	AssignedTo	OpenedBy	OpenedDate	ResolvedBy	ResolvedDate	Priority	Category	Description
+58437	Restore file request	Geoffrey Harris	London	Max Harper	Claire Michaels	3/8/2022	Max Harper	3/13/2022	3	Software	User has deleted an important client file and needs it restored. File deleted is called requirements.xlsx. 
+12014	Computer keeps shutting down	Salvatore Barrett	Hong Kong	Lee Thomas	Andy Cousins	3/14/2022	Lee Thomas	3/15/2022	1	Hardware	Computer randonly shuts down when customer saves work in Word. 
+51004	Replace mouse	Elisa Williamson	Sydney	Max Harper	Ryan Carter	3/26/2022	Max Harper	4/1/2022	3	Hardware	Mouse has been sluggish for a few days and has now stopped working completely despite being fully charged. 
+23950	Unable to login to PC	Blanca Watts	New York	Lee Thomas	Mark Saunders	4/1/2022	Max Harper	4/3/2022	1	Software	PC keeps hanging at the login screen and customer is unable to type in the password
+19903	Bluetooth headset not connecting	Gloria Davis	New York	Julie Lewis	Claire Michaels	4/4/2022	Julie Lewis	4/8/2022	3	Software	Bluetooth headset is no longer pairing with device. 
+59283	Replace printer toner	Dianna Curtis	London	Lee Thomas	Claire Michaels	4/17/2022	Lee Thomas	4/22/2022	3	Service Request	Printer toner needs to be replaced. 
+17305	Computer running slow	Lucille Hoffman	Delhi	Jasmin Pugh	Ryan Carter	5/9/2022	Jasmin Pugh	5/23/2022	4	Software	Computer is running very slow particularly when uploading files to the cloud. Request maintenance check and defrag. 
+29303	Mailbox size over limit	Dexter Ball	Singapore	Deepa Bhopal	Olivia Hudson	5/11/2022	Deepa Bhopal	5/14/2022	2	Software	Customer receiving warning messages in Outlook that his mailbox is oversize. Guidance required on how to fix this. 
+29221	Unable to start Word	Wilbur Moore	Sydney	Ming Nah	Claire Michaels	5/17/2022	Ming Nah	6/3/2022	4	Software	Customer cannot open Word. He clicks on the icon but the application just does not started even after a full reboot. 
+88032	Monitor cable replacement	Violet Reid	New York	Julie Lewis	Ryan Carter	5/24/2022	Julie Lewis	5/27/2022	3	Hardware	Monitor cable is showing signs of wear and tear and needs to be replaced. 
+33829	Internet keeps losing connection	Cheryl Banks	San Francisco	Max Harper	Andy Cousins	5/26/2022	Max Harper	6/7/2022	4	Hardware	Customer has noted that her PC internet connection drops out every few minutes. 
+56680	USB not recognized	Cornelius Neal	Lublin	Max Harper	Olivia Hudson	6/15/2022	Jasmin Pugh	7/3/2022	4	Software	Customer plugs in USB device but it is not recognized in Windows. 
+81746	Spilled coffee on laptop	Terri Rhodes	Stuttgart	Jasmin Pugh	Mark Saunders	6/20/2022	Jasmin Pugh	6/20/2022	1	Hardware	Customer has spilt coffee with sugar on her keyboard. Requests replacement. 
+69005	Forgotten PC password	John Walton	Delhi	Lee Thomas	Ryan Carter	7/4/2022	Lee Thomas	7/5/2022	1	Software	Customer has forgotten her PC password and needs it reset
+83047	Suspected virus	Susan Bradley	London	Ben Chambers	Olivia Hudson	8/30/2022	Ben Chambers	9/1/2022	1	Software	Customer suspects she has a virus on her PC after opening a file with a macro. 
+78335	Files not synching to cloud	Isabel Underwood	London	Julie Lewis	Andy Cousins	9/7/2022	Julie Lewis	9/10/2022	2	Software	Customer cannot sync her files to the cloud. Error message on OneDrive account. 
+89998	New joiner setup	Hubert Castro	Hong Kong	Ming Nah	Ryan Carter	9/8/2022	Ming Nah	9/22/2022	4	New Joiner	New Joiner Setup. See attached details. 
+25079	No access to shared drive	Shannon Ruiz	Singapore	Max Harper	Andy Cousins	9/17/2022	Max Harper	9/22/2022	3	Software	Customer has lost access to the shared drive and needs it back. Please restore. 
+23085	Set up email signature	Carlos Wagner	Stuttgart	Jasmin Pugh	Ryan Carter	10/19/2022	Jasmin Pugh	11/3/2022	4	Software	Customer is not sure how to update her Outlook email signature and set it for new messages. 
+15068	Outlook not sending emails	Ella Diaz	Lublin	Jasmin Pugh	Mark Saunders	10/22/2022	Jasmin Pugh	10/23/2022	1	Software	Outlook has stopped sending emails. All emails currently sitting unsent in the outbox. 
+48493	Unable to install printer	Jessie Robertson	New York	Ming Nah	Ryan Carter	10/26/2022	Ming Nah	10/29/2022	3	Software	Customer is trying to install and setup a new printer but is having problem. Assistance required. 

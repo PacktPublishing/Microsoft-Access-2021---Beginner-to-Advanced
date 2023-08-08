@@ -1,0 +1,23 @@
+Ticket_Number: 65396
+
+Title: Mouse stopped working
+
+Customer: Deb Ashby
+
+Location: Paris
+
+AssignedTo: Max Harper
+
+OpenedBy: Olivia Hudson
+
+Opened Date:3/7/2022
+
+ResolvedBy: Max Harper
+
+ResolvedDate: 3/8/2022
+
+Priority: 3
+
+Category: Hardware
+
+Description: Mouse has stopped working despite being fully charged and plugged in

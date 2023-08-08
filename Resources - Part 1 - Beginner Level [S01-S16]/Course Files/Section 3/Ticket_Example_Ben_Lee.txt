@@ -1,0 +1,23 @@
+Ticket_Number: 45874
+
+Title: Printer broken
+
+Customer: Ben Lee
+
+Location: London
+
+AssignedTo: Julie Lewis
+
+OpenedBy: Olivia Hudson
+
+Opened Date:3/5/2022
+
+ResolvedBy: Julie Lewis
+
+ResolvedDate: 3/7/2022
+
+Priority: 2
+
+Category: Hardware
+
+Description: Printer stopped working 2 days ago after a paper jam. 

@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=deb_a
+DATABASE=WideWorldImportersDW
+WSID=DEBS-LAPTOP
+APP=Microsoft® Windows® Operating System
+Trusted_Connection=Yes
+SERVER=DEBS-LAPTOP\SQLEXPRESS01
